@@ -5,7 +5,5 @@ The train dataset is in the [butterfly.rar](https://github.com/gg1036419175/DCGA
 These butterfly images were copied from the 《中国蝶类志》 by me，as a total of 3447 images and the size of the images is 96×96.  
 The source codes are here [DCGAN](https://github.com/carpedm20/DCGAN-tensorflow/tree/master/assets).  
 To train a model with downloaded dataset:  
-···Python
-$python main.py --input_height 96 --output_height 96 --dataset gaogenxie --crop True --train True --epoch 500
-···
+`<python main.py --input_height 96 --output_height 96 --dataset gaogenxie --crop True --train True --epoch 500>`
 
