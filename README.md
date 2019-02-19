@@ -7,15 +7,19 @@ These butterfly images were copied from the 《中国蝶类志》(ISBN:7-5349-15
 To train a model with Butterfly dataset:  
 `python main.py --input_height 96 --output_height 96 --dataset hudie2 --crop True --train True --epoch 500`  
   
-The generated butterfly images are as as follows:
+The generated butterfly images are as as follows:  
 image1:  
-![Image](https://github.com/gg1036419175/DCGAN-on-Butterfly/blob/master/generated%20image1.png)  
+![Image](https://github.com/gg1036419175/DCGAN-on-Butterfly/blob/master/generated%20image1.png) 
+  
 image2:  
 ![Image](https://github.com/gg1036419175/DCGAN-on-Butterfly/blob/master/generated%20image2.png)  
+  
 image3:  
 ![Image](https://github.com/gg1036419175/DCGAN-on-Butterfly/blob/master/generated%20image3.png)  
+  
 image4:  
 ![Image](https://github.com/gg1036419175/DCGAN-on-Butterfly/blob/master/generated%20image4.png)  
+  
 image5:  
 ![Image](https://github.com/gg1036419175/DCGAN-on-Butterfly/blob/master/generated%20image5.png)  
 
