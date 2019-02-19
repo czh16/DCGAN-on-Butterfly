@@ -9,14 +9,14 @@ To train a model with Butterfly dataset:
   
 The generated butterfly images are as as follows:
 image1:  
-![Image](https://github.com/gg1036419175/DCGAN-on-Butterfly/blob/master/generated%20image1.png)
+![Image](https://github.com/gg1036419175/DCGAN-on-Butterfly/blob/master/generated%20image1.png)  
 image2:  
-![Image](https://github.com/gg1036419175/DCGAN-on-Butterfly/blob/master/generated%20image2.png)
+![Image](https://github.com/gg1036419175/DCGAN-on-Butterfly/blob/master/generated%20image2.png)  
 image3:  
-![Image](https://github.com/gg1036419175/DCGAN-on-Butterfly/blob/master/generated%20image3.png)
+![Image](https://github.com/gg1036419175/DCGAN-on-Butterfly/blob/master/generated%20image3.png)  
 image4:  
-![Image](https://github.com/gg1036419175/DCGAN-on-Butterfly/blob/master/generated%20image4.png)
+![Image](https://github.com/gg1036419175/DCGAN-on-Butterfly/blob/master/generated%20image4.png)  
 image5:  
-![Image](https://github.com/gg1036419175/DCGAN-on-Butterfly/blob/master/generated%20image5.png)
+![Image](https://github.com/gg1036419175/DCGAN-on-Butterfly/blob/master/generated%20image5.png)  
 
 
